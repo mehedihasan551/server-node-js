@@ -1,0 +1,52 @@
+{
+    "destinations": [
+        {
+            "hotel_name": "Hotel A",
+            "address": "123 Main St, Anytown USA",
+            "price": 100,
+            "id": 1,
+            "name": "Tokyo, Japan",
+            "image_url": "https://example.com/tokyo.jpg"
+        },
+        {
+            "hotel_name": "Hotel B",
+            "address": "456 Oak St, Anytown USA",
+            "price": 150,
+            "id": 2,
+            "name": "Sydney, Australia",
+            "image_url": "https://example.com/sydney.jpg"
+        },
+        {
+            "hotel_name": "Hotel A",
+            "address": "123 Main St, Anytown USA",
+            "price": 100,
+            "id": 3,
+            "name": "Rio de Janeiro, Brazil",
+            "image_url": "https://example.com/rio.jpg"
+        },
+        {
+            "hotel_name": "Hotel A",
+            "address": "123 Main St, Anytown USA",
+            "price": 100,
+            "id": 4,
+            "name": "Barcelona, Spain",
+            "image_url": "https://example.com/barcelona.jpg"
+        },
+        {
+            "hotel_name": "Hotel A",
+            "address": "123 Main St, Anytown USA",
+            "price": 100,
+            "id": 5,
+            "name": "Cape Town, South Africa",
+            "image_url": "https://example.com/capetown.jpg"
+        },
+        {
+            "hotel_name": "Hotel A",
+            "address": "123 Main St, Anytown USA",
+            "price": 100,
+            "id": 6,
+            "name": "Vancouver, Canada",
+            "image_url": "https://example.com/vancouver.jpg"
+        }
+    ]
+}
